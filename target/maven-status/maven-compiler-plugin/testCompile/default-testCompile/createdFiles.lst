@@ -1,0 +1,12 @@
+pages\BasePage.class
+driver\DriverFactory.class
+pages\ProductPage.class
+pages\LoginPage.class
+driver\Emulator.class
+RunFeatures.class
+pages\HomePage.class
+driver\Device.class
+RunCukesTest.class
+pages\LandingPage.class
+pages\ResultPage.class
+steps\LoginPageSteps.class
